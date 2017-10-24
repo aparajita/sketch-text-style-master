@@ -1,11 +1,21 @@
-# build artefacts
-plugin.sketchplugin/Contents/Sketch
-plugin.sketchplugin/Contents/Resources/_webpack_resources
+# build artifacts
+Text Style Master.sketchplugin/Contents/Resources/_webpack_resources/
 
 # npm
-node_modules
-.npm
+node_modules/
+.npm/
 npm-debug.log
 
 # mac
 .DS_Store
+
+# WebStorm
+.idea/
+
+# Xcode
+*.xcuserstate
+*.xcworkspacedata
+
+# Misc
+*.gifcask
+*.mov

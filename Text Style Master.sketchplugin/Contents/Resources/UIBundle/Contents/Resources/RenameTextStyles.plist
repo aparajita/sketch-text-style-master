@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.ibtool.document.connections</key>
+	<dict>
+		<key>8ar-1O-Syr</key>
+		<dict>
+			<key>destination-id</key>
+			<string>d0k-d2-Va7</string>
+			<key>destination-label</key>
+			<string>Find Field</string>
+			<key>label</key>
+			<string>initialFirstResponder</string>
+			<key>source-id</key>
+			<string>Ccx-S7-ed5</string>
+			<key>source-label</key>
+			<string>Window</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+		<key>Ace-ls-6ij</key>
+		<dict>
+			<key>destination-id</key>
+			<string>0Vi-fg-0c5</string>
+			<key>destination-label</key>
+			<string>Autoscroll Checkbox</string>
+			<key>label</key>
+			<string>autoscrollCheckbox</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+		<key>D33-E8-hsV</key>
+		<dict>
+			<key>destination-id</key>
+			<string>2tI-De-DBL</string>
+			<key>destination-label</key>
+			<string>Replace Field</string>
+			<key>label</key>
+			<string>replaceField</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+		<key>Egs-P4-NEH</key>
+		<dict>
+			<key>destination-id</key>
+			<string>Md2-No-TvU</string>
+			<key>destination-label</key>
+			<string>Show Only Matching Styles Checkbox</string>
+			<key>label</key>
+			<string>toggleShowOnlyMatchingStyles:</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaActionConnection</string>
+		</dict>
+		<key>KI4-eh-SXA</key>
+		<dict>
+			<key>destination-id</key>
+			<string>Utp-52-vtU</string>
+			<key>destination-label</key>
+			<string>Rename Button</string>
+			<key>label</key>
+			<string>handleRename:</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaActionConnection</string>
+		</dict>
+		<key>RqO-4U-Fpi</key>
+		<dict>
+			<key>destination-id</key>
+			<string>3pl-Mo-RMS</string>
+			<key>destination-label</key>
+			<string>Regex Checkbox</string>
+			<key>label</key>
+			<string>regexCheckbox</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+		<key>ZsK-Fr-RDq</key>
+		<dict>
+			<key>destination-id</key>
+			<string>TIv-fz-ipM</string>
+			<key>destination-label</key>
+			<string>Count Label</string>
+			<key>label</key>
+			<string>countLabel</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+		<key>aaD-iM-StP</key>
+		<dict>
+			<key>destination-id</key>
+			<string>IZu-M2-Zu6</string>
+			<key>destination-label</key>
+			<string>Apply Button</string>
+			<key>label</key>
+			<string>applyButton</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+		<key>aw9-5t-J9q</key>
+		<dict>
+			<key>destination-id</key>
+			<string>Utp-52-vtU</string>
+			<key>destination-label</key>
+			<string>Rename Button</string>
+			<key>label</key>
+			<string>renameButton</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+		<key>cCN-Bq-d5H</key>
+		<dict>
+			<key>destination-id</key>
+			<string>0Vi-fg-0c5</string>
+			<key>destination-label</key>
+			<string>Autoscroll Checkbox</string>
+			<key>label</key>
+			<string>toggleAutoscroll:</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaActionConnection</string>
+		</dict>
+		<key>d9v-bL-SpP</key>
+		<dict>
+			<key>destination-id</key>
+			<string>d0k-d2-Va7</string>
+			<key>destination-label</key>
+			<string>Find Field</string>
+			<key>label</key>
+			<string>nextKeyView</string>
+			<key>source-id</key>
+			<string>2tI-De-DBL</string>
+			<key>source-label</key>
+			<string>Replace Field</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+		<key>ezz-Xf-ESI</key>
+		<dict>
+			<key>destination-id</key>
+			<string>d0k-d2-Va7</string>
+			<key>destination-label</key>
+			<string>Find Field</string>
+			<key>label</key>
+			<string>findField</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+		<key>iwX-hY-nno</key>
+		<dict>
+			<key>destination-id</key>
+			<string>3pl-Mo-RMS</string>
+			<key>destination-label</key>
+			<string>Regex Checkbox</string>
+			<key>label</key>
+			<string>toggleFindOption:</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaActionConnection</string>
+		</dict>
+		<key>lRR-oj-Ogr</key>
+		<dict>
+			<key>destination-id</key>
+			<string>Md2-No-TvU</string>
+			<key>destination-label</key>
+			<string>Show Only Matching Styles Checkbox</string>
+			<key>label</key>
+			<string>showOnlyMatchingStylesCheckbox</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+		<key>mzw-dk-X6V</key>
+		<dict>
+			<key>destination-id</key>
+			<string>DOq-Af-15O</string>
+			<key>destination-label</key>
+			<string>Cancel</string>
+			<key>label</key>
+			<string>handleCancel:</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaActionConnection</string>
+		</dict>
+		<key>qZF-T9-C18</key>
+		<dict>
+			<key>destination-id</key>
+			<string>Ccx-S7-ed5</string>
+			<key>destination-label</key>
+			<string>Window</string>
+			<key>label</key>
+			<string>window</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+		<key>r4a-pF-4I2</key>
+		<dict>
+			<key>destination-id</key>
+			<string>GWo-Yz-8V6</string>
+			<key>destination-label</key>
+			<string>After Label</string>
+			<key>label</key>
+			<string>afterLabel</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+		<key>sPt-uU-0Pn</key>
+		<dict>
+			<key>destination-id</key>
+			<string>ynF-qS-LLb</string>
+			<key>destination-label</key>
+			<string>Before Label</string>
+			<key>label</key>
+			<string>beforeLabel</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+		<key>wew-7b-BOW</key>
+		<dict>
+			<key>destination-id</key>
+			<string>IZu-M2-Zu6</string>
+			<key>destination-label</key>
+			<string>Apply Button</string>
+			<key>label</key>
+			<string>handleApply:</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaActionConnection</string>
+		</dict>
+		<key>x6q-4w-PGW</key>
+		<dict>
+			<key>destination-id</key>
+			<string>BW1-qt-buh</string>
+			<key>destination-label</key>
+			<string>Ignore Case Checkbox</string>
+			<key>label</key>
+			<string>toggleFindOption:</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaActionConnection</string>
+		</dict>
+		<key>xKJ-kn-86B</key>
+		<dict>
+			<key>destination-id</key>
+			<string>2tI-De-DBL</string>
+			<key>destination-label</key>
+			<string>Replace Field</string>
+			<key>label</key>
+			<string>nextKeyView</string>
+			<key>source-id</key>
+			<string>d0k-d2-Va7</string>
+			<key>source-label</key>
+			<string>Find Field</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+		<key>z2O-77-X7O</key>
+		<dict>
+			<key>destination-id</key>
+			<string>NZG-AZ-RAe</string>
+			<key>destination-label</key>
+			<string>Scroll View</string>
+			<key>label</key>
+			<string>scrollView</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+		<key>zXc-dH-5vO</key>
+		<dict>
+			<key>destination-id</key>
+			<string>BW1-qt-buh</string>
+			<key>destination-label</key>
+			<string>Ignore Case Checkbox</string>
+			<key>label</key>
+			<string>ignoreCaseCheckbox</string>
+			<key>source-id</key>
+			<string>-2</string>
+			<key>source-label</key>
+			<string>File's Owner</string>
+			<key>type</key>
+			<string>IBCocoaOutletConnection</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
