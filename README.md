@@ -140,7 +140,7 @@ Here’s how:
 
 | Find | Replace |
 | :--- | :--- |
-| `^(.+?)\s*/\s*(.+?)\s*/\s*(.+?)\s*-\s*(.+)` | `$1 / $2 / $3 / $4` |
+| `- ([^-]+)$` | `/ $1`
 
 ## Acknowledgements
 Special thanks to other members of the Sketch plugin community for their invaluable foundational work:
